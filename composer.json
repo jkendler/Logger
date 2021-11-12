@@ -1,0 +1,19 @@
+{
+    "name": "jkendler/logger",
+    "description": "Make logs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jkendler\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julia Kendler",
+            "email": "jkendler@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
